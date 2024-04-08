@@ -64,9 +64,17 @@ I'm a passionate full-stack developer with 6+ years of experience in crafting di
 
 ## 🌟 Project Highlights
 
-- **Project 1**: Brief description and link (if public)
-- **Project 2**: Brief description and link (if public)
-- **Project 3**: Brief description and link (if public)
+- **[Menuhat Online](https://menuhat.online/)**:
+  - Website design and development
+  - Brief description of your role and contributions
+
+- **[RecruitScape Canvas](https://canvas.recruitscape.com/)**:
+  - Website design and development
+  - Brief description of your role and contributions
+
+- **[Medical One Clinic](http://www.medicaloneclinic.com/)**:
+  - Website development
+  - Brief description of your role and contributions
 
 ## 📚 Learning Goals
 
@@ -96,6 +104,6 @@ Feel free to reach out for:
 - Project inquiries
 - General tech discussions
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yasin-a0085a277/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://your-portfolio.com)
 

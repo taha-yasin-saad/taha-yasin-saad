@@ -112,5 +112,5 @@ Feel free to reach out for:
 - Project inquiries
 - General tech discussions
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yasin-a0085a277/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://www.linkedin.com/in/taha-kommah-a0085a277/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-kommah-a0085a277/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/taha-yasin-saad/)

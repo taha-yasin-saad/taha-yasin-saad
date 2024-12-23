@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with 6+ years of experience in crafting digital solutions that drive innovation and deliver results. I thrive on challenges and love exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+I'm a passionate full-stack developer with **7+ years** of experience in crafting digital solutions that drive innovation and deliver results. I thrive on challenges and love exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
 ## 🔧 Tech Stack
 
@@ -34,7 +34,7 @@ I'm a passionate full-stack developer with 6+ years of experience in crafting di
 
 ### Testing
 - Jasmine
-- PHP UNIT
+- PHPUnit
 
 ### Technologies
 - Firebase
@@ -55,26 +55,30 @@ I'm a passionate full-stack developer with 6+ years of experience in crafting di
 - CSV
 
 ### Editors
-- Sublime
+- Sublime Text
 - NetBeans
 - IntelliJ IDEA
-- PHPStorm
+- PhpStorm
 - Notepad++
 - Visual Studio Code
 
 ## 🌟 Project Highlights
 
-- **[Menuhat Online](https://menuhat.online/)**:
-  - Website design and development
-  - Brief description of your role and contributions
+- **[Rotoballer Ranking Tool](https://www.rotoballer.com/)**:
+  - Built the NFL ranking tool from scratch.
+  - Continuous user growth with client satisfaction.
 
-- **[RecruitScape Canvas](https://canvas.recruitscape.com/)**:
-  - Website design and development
-  - Brief description of your role and contributions
+- **[Menuhat Online](https://menuhat.online/)**:
+  - Website design and development.
+  - Implemented custom features for a seamless user experience.
 
 - **[Medical One Clinic](http://www.medicaloneclinic.com/)**:
-  - Website development
-  - Brief description of your role and contributions
+  - Website development.
+  - Created a robust and user-friendly medical platform.
+
+- **[Zerofat](https://zerofat.com/)**:
+  - Managed backend systems and frontend enhancements.
+  - Optimized user experience across platforms.
 
 ## 📚 Learning Goals
 
@@ -105,5 +109,4 @@ Feel free to reach out for:
 - General tech discussions
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yasin-a0085a277/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://your-portfolio.com)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/taha-yasin-saad)

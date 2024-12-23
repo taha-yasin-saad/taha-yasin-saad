@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with **7+ years** of experience in crafting digital solutions that drive innovation and deliver results. I thrive on challenges and love exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+I'm a passionate full-stack developer with **7+ years** of experience in building and optimizing web applications for diverse industries. My expertise lies in delivering scalable, high-performance solutions tailored to meet client needs. I continuously explore new technologies to stay ahead in the fast-paced world of development.
 
 ## 🔧 Tech Stack
 
@@ -42,7 +42,7 @@ I'm a passionate full-stack developer with **7+ years** of experience in craftin
 - WebRTC
 - Docker
 
-### Microservices
+### Microservices & Cloud
 - AWS
 - Google Cloud
 
@@ -54,7 +54,7 @@ I'm a passionate full-stack developer with **7+ years** of experience in craftin
 - XML
 - CSV
 
-### Editors
+### Editors & Tools
 - Sublime Text
 - NetBeans
 - IntelliJ IDEA
@@ -66,40 +66,44 @@ I'm a passionate full-stack developer with **7+ years** of experience in craftin
 
 - **[Rotoballer Ranking Tool](https://www.rotoballer.com/)**:
   - Built the NFL ranking tool from scratch.
-  - Continuous user growth with client satisfaction.
+  - Achieved significant user growth and high client satisfaction.
 
 - **[Menuhat Online](https://menuhat.online/)**:
-  - Website design and development.
-  - Implemented custom features for a seamless user experience.
+  - Designed and developed an intuitive online platform.
+  - Focused on user-centric features and performance optimization.
 
 - **[Medical One Clinic](http://www.medicaloneclinic.com/)**:
-  - Website development.
-  - Created a robust and user-friendly medical platform.
+  - Developed a reliable and efficient medical services website.
+  - Ensured accessibility and ease of use for all users.
 
 - **[Zerofat](https://zerofat.com/)**:
-  - Managed backend systems and frontend enhancements.
-  - Optimized user experience across platforms.
+  - Led backend and frontend enhancements for smoother operations.
+  - Improved application speed and scalability.
+
+- **Closor**:
+  - Built a comprehensive real estate management platform.
+  - Integrated advanced search and analytics features.
 
 ## 📚 Learning Goals
 
-I'm currently focusing on mastering:
-- GraphQL
-- Microservices architecture
-- Advanced JavaScript frameworks
+I'm currently focusing on:
+- Advanced GraphQL techniques
+- Expanding expertise in Microservices architecture
+- Exploring cutting-edge JavaScript frameworks
 
 ## 👨‍💻 Work Philosophy
 
 I believe in:
-- Continuous learning and growth
-- Collaboration and open communication
-- Solving problems creatively and efficiently
+- Leveraging technology to solve real-world problems
+- Continuous improvement through learning and feedback
+- Building strong, collaborative relationships with clients and teams
 
 ## 🌱 Community Engagement
 
 I actively participate in:
-- Tech meetups and events
-- Open-source contributions
-- Mentoring programs
+- Industry meetups and conferences
+- Open-source projects
+- Mentorship and knowledge-sharing initiatives
 
 ## 📫 Let's Connect!
 
@@ -109,4 +113,4 @@ Feel free to reach out for:
 - General tech discussions
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yasin-a0085a277/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/taha-yasin-saad)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://www.linkedin.com/in/taha-kommah-a0085a277/)

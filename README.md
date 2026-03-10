@@ -117,9 +117,11 @@ Real estate management platform featuring:
 
 # 📊 GitHub Stats
 
-![Taha GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-yasin-saad&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Taha GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-yasin-saad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-yasin-saad&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-yasin-saad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=taha-yasin-saad&theme=tokyonight&hide_border=true)
 
 ---
 

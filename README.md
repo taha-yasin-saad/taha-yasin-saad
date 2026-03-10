@@ -1,126 +1,152 @@
-# Hi there, I'm Taha Yasin! 👋
+# Hi, I'm Taha Kommah 👋
 
-## 🚀 About Me
+💻 **Senior Full Stack Engineer** with **7+ years of experience** building scalable web applications, APIs, and enterprise systems.
 
-Experienced Software Engineer with 7+ years in web development, specializing in JavaScript, Node.js, Vue.js, PHP, and Laravel. Proven expertise in delivering scalable, high-performance web solutions across industries including sports, e-commerce, and event management. Skilled in leading end-to-end projects, integrating REST APIs and enterprise systems, and achieving measurable outcomes such as enhanced system performance, user engagement, and platform reliability.
+I specialize in **Laravel, Node.js, React, and cloud-based architectures**, delivering high-performance solutions across industries including **sports analytics, healthcare, e-commerce, and fintech**.
 
-* 🌍  I'm based in United Arab Emirates
-* ✉️  You can contact me at [taha.yasin.saad@gmail.com](mailto:taha.yasin.saad@gmail.com)
-* 🧠  I'm learning Next,js, AWS and Docker
+📍 Based in **Abu Dhabi, UAE**
 
-## 🔧 Tech Stack
+---
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+# 🚀 About Me
 
-### Languages
+- 🧠 7+ years in **Full Stack Development**
+- ⚙️ Expert in **Laravel, Node.js, JavaScript, PHP**
+- 🌐 Experience working with **international clients (USA, Saudi Arabia, Greece, Egypt)**
+- ☁️ Working with **AWS, Docker, APIs, and Microservices**
+- 🎓 Master's in **Information Technology (Expected 2026)**
+
+📩 **Email:**  
+[taha.yasin.saad@gmail.com](mailto:taha.yasin.saad@gmail.com)
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/taha-kommah-a0085a277
+
+🔗 **GitHub:**  
+https://github.com/taha-yasin-saad
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
 - PHP
-- JavaScript
-- HTML
-- CSS
-- TypeScript
-- SQL
-
-### Frameworks
 - Laravel
-- jQuery
-- Vue.js
-- AngularJS
 - Node.js
 - Express.js
-- Bootstrap
-- Tailwind
-- Sass
-- WordPress
-- Ionic
+- REST APIs
+- GraphQL
 
-### Database
+## Frontend
+- JavaScript
+- React
+- Vue.js
+- jQuery
+- HTML5
+- CSS3
+- Tailwind
+- Bootstrap
+
+## Databases
 - MySQL
 - PostgreSQL
 - MongoDB
 
-### Testing
-- Jasmine
-- PHPUnit
-
-### Technologies
-- Firebase
-- GraphQL
-- WebRTC
-- Docker
-
-### Microservices & Cloud
+## Cloud & DevOps
 - AWS
+- Docker
+- Firebase
 - Google Cloud
 
-### Version Control
-- Git (GitLab, BitBucket, GitHub)
+## Tools
+- Git
+- Postman
+- Webpack
+- VS Code
+- Figma
 
-### Data Formats
-- JSON
-- XML
-- CSV
+---
 
-### Editors & Tools
-- Sublime Text
-- NetBeans
-- IntelliJ IDEA
-- PhpStorm
-- Notepad++
-- Visual Studio Code
+# 🌟 Featured Projects
 
+## 🏈 Rotoballer NFL Ranking Tool
+https://www.rotoballer.com/
 
-## 🌟 Project Highlights
+- Built the **entire ranking system from scratch**
+- Handles **dynamic sports data & API integrations**
+- Serves **thousands of users weekly**
+- Continuous feature improvements and optimizations
 
-- **[Rotoballer Ranking Tool](https://www.rotoballer.com/)**:
-  - Built the NFL ranking tool from scratch.
-  - Achieved significant user growth and high client satisfaction.
+---
 
-- **[Menuhat Online](https://menuhat.online/)**:
-  - Designed and developed an intuitive online platform.
-  - Focused on user-centric features and performance optimization.
+## 🍽 Menuhat
+https://menuhat.online/
 
-- **[Medical One Clinic](http://www.medicaloneclinic.com/)**:
-  - Developed a reliable and efficient medical services website.
-  - Ensured accessibility and ease of use for all users.
+Restaurant digital menu platform.
 
-- **[Zerofat](https://zerofat.com/)**:
-  - Led backend and frontend enhancements for smoother operations.
-  - Improved application speed and scalability.
+Features:
 
-- **Closor**:
-  - Built a comprehensive real estate management platform.
-  - Integrated advanced search and analytics features.
+- QR code menus
+- Admin dashboard
+- Restaurant management system
+- Fast mobile optimized interface
 
-## 📚 Learning Goals
+---
 
-I'm currently focusing on:
-- Advanced GraphQL techniques
-- Expanding expertise in Microservices architecture
-- Exploring cutting-edge JavaScript frameworks
+## 🏥 Medical One Clinic
+http://www.medicaloneclinic.com/
 
-## 👨‍💻 Work Philosophy
+Healthcare platform providing:
 
-I believe in:
-- Leveraging technology to solve real-world problems
-- Continuous improvement through learning and feedback
-- Building strong, collaborative relationships with clients and teams
+- Appointment system
+- Patient services portal
+- Optimized performance and UX
 
-## 🌱 Community Engagement
+---
 
-I actively participate in:
-- Industry meetups and conferences
-- Open-source projects
-- Mentorship and knowledge-sharing initiatives
+## 🏢 Closor Real Estate Platform
 
-## 📫 Let's Connect!
+Real estate management platform featuring:
 
-Feel free to reach out for:
-- Collaboration opportunities
-- Project inquiries
-- General tech discussions
+- Property listings
+- Search and filtering system
+- Admin analytics dashboard
+- Scalable backend architecture
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/taha-yasin-saad/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/taha-kommah-a0085a277" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+# 📊 GitHub Stats
+
+![Taha GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-yasin-saad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-yasin-saad&layout=compact&theme=tokyonight)
+
+---
+
+# 📚 Currently Learning
+
+- Next.js
+- Advanced AWS architecture
+- Docker & container orchestration
+- Microservices design patterns
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to:
+
+- Collaboration
+- Freelance opportunities
+- Backend/API architecture projects
+- Full stack development work
+
+📩 **Email:**  
+[taha.yasin.saad@gmail.com](mailto:taha.yasin.saad@gmail.com)
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/taha-kommah-a0085a277
+
+---
+
+⭐ If you like my work, feel free to **star some repositories**!

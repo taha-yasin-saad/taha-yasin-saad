@@ -1,6 +1,6 @@
 # Hi, I'm Taha Kommah 👋
 
-💻 **Senior Full Stack Engineer** with **7+ years of experience** building scalable web applications, APIs, and enterprise systems.
+💻 **Senior Full Stack Engineer** with **8+ years of experience** building scalable web applications, APIs, and enterprise systems.
 
 I specialize in **Laravel, Node.js, React, and cloud-based architectures**, delivering high-performance solutions across industries including **sports analytics, healthcare, e-commerce, and fintech**.
 
@@ -10,7 +10,7 @@ I specialize in **Laravel, Node.js, React, and cloud-based architectures**, deli
 
 # 🚀 About Me
 
-- 🧠 7+ years in **Full Stack Development**
+- 🧠 8+ years in **Full Stack Development**
 - ⚙️ Expert in **Laravel, Node.js, JavaScript, PHP**
 - 🌐 Experience working with **international clients (USA, Saudi Arabia, Greece, Egypt)**
 - ☁️ Working with **AWS, Docker, APIs, and Microservices**

@@ -1,154 +1,63 @@
 # Hi, I'm Taha Kommah 👋
 
-💻 **Senior Full Stack Engineer** with **8+ years of experience** building scalable web applications, APIs, and enterprise systems.
+**Senior Software Engineer — AI/ML + Full-Stack** · 8+ years
 
-I specialize in **Laravel, Node.js, React, and cloud-based architectures**, delivering high-performance solutions across industries including **sports analytics, healthcare, e-commerce, and fintech**.
+I build **production AI features** — LLM apps, RAG systems, and ML inference APIs — on top of solid, scalable full-stack engineering. I help companies ship AI that actually works in production, not just demos.
 
-📍 Based in **Abu Dhabi, UAE**
-
----
-
-# 🚀 About Me
-
-- 🧠 8+ years in **Full Stack Development**
-- ⚙️ Expert in **Laravel, Node.js, JavaScript, PHP**
-- 🌐 Experience working with **international clients (USA, Saudi Arabia, Greece, Egypt)**
-- ☁️ Working with **AWS, Docker, APIs, and Microservices**
-- 🎓 Master's in **Information Technology (Expected 2026)**
-
-📩 **Email:**  
-[taha.yasin.saad@gmail.com](mailto:taha.yasin.saad@gmail.com)
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/taha-kommah-a0085a277
-
-🔗 **GitHub:**  
-https://github.com/taha-yasin-saad
+📍 Abu Dhabi, UAE · 🌐 Available for select freelance & contract work
 
 ---
 
-# 🛠 Tech Stack
+## 🤖 AI / ML
 
-## Backend
-- PHP
-- Laravel
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
+- **LLM & Generative AI:** RAG pipelines, multi-provider report generation (OpenAI, Anthropic/Claude, Google Vertex AI / Gemini), prompt engineering, LLM-as-reviewer architectures
+- **Machine Learning:** classification, fraud detection, predictive analytics — scikit-learn, TensorFlow/Keras, Pandas, NumPy
+- **ML Engineering:** FastAPI inference APIs, feature engineering, ROC/AUC & PR-AUC evaluation, class-imbalance treatment, Docker-based deployment on GCP
 
-## Frontend
-- JavaScript
-- React
-- Vue.js
-- jQuery
-- HTML5
-- CSS3
-- Tailwind
-- Bootstrap
+## 🛠 Full-Stack & Infrastructure
 
-## Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-## Cloud & DevOps
-- AWS
-- Docker
-- Firebase
-- Google Cloud
-
-## Tools
-- Git
-- Postman
-- Webpack
-- VS Code
-- Figma
+- **Backend:** Node.js, Express, NestJS, Laravel, FastAPI, REST & GraphQL, microservices
+- **Frontend:** React, Next.js, Vue.js, Tailwind, TypeScript
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud/DevOps:** AWS, GCP, Docker (multi-stage), Kubernetes, CI/CD (GitHub Actions, Jenkins)
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🏈 Rotoballer NFL Ranking Tool
-https://www.rotoballer.com/
+### 🩻 Chest X-Ray Deep Learning Classifier
+Fine-tuned EfficientNetB1 (TensorFlow/Keras) for 4-class chest X-ray classification — **96.1% test accuracy**. Custom multi-class focal loss with inverse-frequency class weighting; controlled ablation study improving accuracy from 95.3% → 96.1%.
 
-- Built the **entire ranking system from scratch**
-- Handles **dynamic sports data & API integrations**
-- Serves **thousands of users weekly**
-- Continuous feature improvements and optimizations
+### 💳 Credit-Card Fraud Detection
+Fraud-detection pipeline on a severely imbalanced 285K-transaction dataset (0.17% fraud). Logistic Regression, Random Forest, Isolation Forest with stratified sampling and class weights — **0.97 fraud precision, 0.82 PR-AUC**.
 
----
+### ☎️ Call-Center Management Platform
+Full-stack TypeScript monorepo (Express, Prisma, PostgreSQL + React/Vite). Normalized indexed schema with transactional call-routing that atomically assigns queued calls to available agents.
 
-## 🍽 Menuhat
-https://menuhat.online/
+### 🚦 Jeddah Traffic ML Dashboard
+Interactive Streamlit + Plotly dashboard with scikit-learn Decision Tree classification and K-Means clustering. Domain-driven synthetic data generator calibrated to official Saudi statistics, modeling seasonality and calendar effects.
 
-Restaurant digital menu platform.
+### 🏈 RotoBaller — Fantasy Sports Platform (Production)
+Scalable NFL/MLB ranking engine used by thousands of fantasy users. Modernized Laravel 5.4 → Laravel 11 / React SPA with zero-downtime cutover; multi-source data ingestion pipelines feeding cached rank computation; **40% API latency reduction** via Redis caching and query optimization.
 
-Features:
-
-- QR code menus
-- Admin dashboard
-- Restaurant management system
-- Fast mobile optimized interface
+### 🍽 Menuhat — High-Traffic Food Ordering (Production)
+Backend microservices (Node.js, Docker) scaled for **10k+ concurrent users**. **70% page-load reduction** through caching and AWS infrastructure improvements; analytics dashboards cutting support queries by 30%.
 
 ---
 
-## 🏥 Medical One Clinic
-http://www.medicaloneclinic.com/
+## 💼 Experience Highlights
 
-Healthcare platform providing:
+- **Nexta** (2025–present) — Healthcare AI: ML pipelines for EEG/time-series classification across a 700+ subject cohort; multi-provider LLM clinical report generation; scalable ML inference APIs (FastAPI + Docker + GCP)
+- **RotoBaller** (2021–present) — Scalable fantasy sports ranking platform
+- **Menuhat, Klik, The Cube, For All** — High-traffic backends, payments, real-time systems, 99.9% uptime
 
-- Appointment system
-- Patient services portal
-- Optimized performance and UX
-
----
-
-## 🏢 Closor Real Estate Platform
-
-Real estate management platform featuring:
-
-- Property listings
-- Search and filtering system
-- Admin analytics dashboard
-- Scalable backend architecture
+🎓 Master of Information Technology (AI & Systems Focus), Alexandria University
 
 ---
 
-# 📊 GitHub Stats
+## 🤝 Let's Connect
 
-![Taha GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-yasin-saad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+- 📩 taha.yasin.saad@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/taha-kommah-a0085a277)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-yasin-saad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=taha-yasin-saad&theme=tokyonight&hide_border=true)
-
----
-
-# 📚 Currently Learning
-
-- Next.js
-- Advanced AWS architecture
-- Docker & container orchestration
-- Microservices design patterns
-
----
-
-# 🤝 Let's Connect
-
-I'm always open to:
-
-- Collaboration
-- Freelance opportunities
-- Backend/API architecture projects
-- Full stack development work
-
-📩 **Email:**  
-[taha.yasin.saad@gmail.com](mailto:taha.yasin.saad@gmail.com)
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/taha-kommah-a0085a277
-
----
-
-⭐ If you like my work, feel free to **star some repositories**!
+Open to AI/LLM integration, ML engineering, and senior full-stack contract work.
